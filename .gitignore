@@ -1,0 +1,8 @@
+# macOS Finder metadata
+.DS_Store
+
+# Build output (everyone builds the app themselves with build.sh)
+build/
+
+# Local Claude Code settings (personal, not part of the project)
+.claude/
